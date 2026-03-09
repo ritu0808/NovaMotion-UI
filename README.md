@@ -45,6 +45,10 @@
 - This project was created to improve my frontend development skills and learn how to use aniamtions,hover-effect
   ,transitions smoothly.
 
+## 🎥 Project Demo 
+
+- https://youtu.be/vriME9BNBBc
+
 
 
 
