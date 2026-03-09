@@ -1,9 +1,9 @@
-# 🚀 NovaMotion - Interactive Web Experience
+#  NovaMotion - Interactive Web Experience
 
-## 📌 Project Description 
+##  Project Description 
 - This project demonstrates frontend development skills including layout structuring, animation implementation, and dynamic user interface interactions.
 
-## ⚙️ Tech Stack
+##  Tech Stack
 - HTML5 – For structuring the webpage
 
 - CSS3 – For styling and layout
@@ -12,7 +12,7 @@
 
 - GSAP (GreenSock Animation Platform) – For smooth animations and scroll effects
 
-## ✨ Features 
+##  Features 
 
 - Modern UI Design
 
@@ -28,7 +28,7 @@
 
 -  Responsive Layout Structure
 
-## 📚 What I Learned
+##  What I Learned
 
 - Implementing GSAP animations
 
@@ -37,17 +37,18 @@
 - Structuring a professional landing page
 
 - Managing project files for real-world projects
-
+ 
 - Using GitHub for project version control
 
-## 🎯 Purpose of the Project 
+##  Purpose of the Project 
 
 - This project was created to improve my frontend development skills and learn how to use aniamtions,hover-effect
   ,transitions smoothly.
 
-## 🎥 Project Demo 
+##  Project Demo 
 
 - https://youtu.be/vriME9BNBBc
+
 
 
 
