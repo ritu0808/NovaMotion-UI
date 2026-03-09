@@ -3,7 +3,7 @@
 ## 📌 Project Description 
 - This project demonstrates frontend development skills including layout structuring, animation implementation, and dynamic user interface interactions.
 
-⚙️ Tech Stack
+## ⚙️ Tech Stack
 - HTML5 – For structuring the webpage
 
 - CSS3 – For styling and layout
@@ -44,6 +44,7 @@
 
 - This project was created to improve my frontend development skills and learn how to use aniamtions,hover-effect
   ,transitions smoothly.
+
 
 
 
